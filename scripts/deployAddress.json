@@ -1,0 +1,30 @@
+{
+  "1": {
+    "swapModule": "0x5D55c7B7DbfF25502a4a80BfBC6bBCabA7932A28",
+    "swapRouter": "0x7b2E89b7614b89cF8BBCD7c5285461A690Bd62D7"
+  },
+  "10": {
+    "swapModule": "0xD8e17488D3530B505bf39e42767C1a5BA9831C23",
+    "swapRouter": "0x929b21318BAA989Dfb16382308FC273C9C8eC015"
+  },
+  "56": {
+    "swapModule": "0x5D55c7B7DbfF25502a4a80BfBC6bBCabA7932A28",
+    "swapRouter": "0x7b2E89b7614b89cF8BBCD7c5285461A690Bd62D7"
+  },
+  "137": {
+    "swapModule": "0xB28b64aCbC4a3478C4974afB60Fd4Bf2201FD836",
+    "swapRouter": "0xC81E3827ACfCAF87bF8A5Aa42f27b35ecA3B49E6"
+  },
+  "250": {
+    "swapModule": "0x5D55c7B7DbfF25502a4a80BfBC6bBCabA7932A28",
+    "swapRouter": "0x7b2E89b7614b89cF8BBCD7c5285461A690Bd62D7"
+  },
+  "42161": {
+    "swapModule": "0x5D55c7B7DbfF25502a4a80BfBC6bBCabA7932A28",
+    "swapRouter": "0x7b2E89b7614b89cF8BBCD7c5285461A690Bd62D7"
+  },
+  "43114": {
+    "swapModule": "0x5D55c7B7DbfF25502a4a80BfBC6bBCabA7932A28",
+    "swapRouter": "0x7b2E89b7614b89cF8BBCD7c5285461A690Bd62D7"
+  }
+}
